@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Joshi
 - 👀 I’m interested in Cyber Security, Programming, and creating websites.
-- 🌱 I’m currently a graduate student at the University of Texas at Dallas.
+- 🌱 I’m a student at the University of Texas at Dallas.
 - 💞️ I’m looking to collaborate on projects focusing on information security, information awareness, password security, and many more projects in the filed of cyber Security.
 - 📫 How to reach me ...
 Nikhil.Joshi@utdallas.edu
